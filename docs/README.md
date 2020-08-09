@@ -63,7 +63,7 @@ The most important part is as follows:
    * Integral on the real line
    * Integration by parts
    * Harmonic series
-1. [Power series[http://web.uni-corvinus.hu/magyarkuti/10-Calculus.pdf) 
+1. [Power series](http://web.uni-corvinus.hu/magyarkuti/10-Calculus.pdf) 
    * The sum of the power series
    * Radius of convergence
    * Derivation and integration of power series
@@ -73,7 +73,8 @@ The most important part is as follows:
 1. [Review](http://web.uni-corvinus.hu/magyarkuti/SampleExam-Calculus.pdf) 
    * Practice
    * Mini quiz 4
-<!--
+
+<!---
 
 1. [Multi variable functions ====
    * Partial derivatives
